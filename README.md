@@ -1,4 +1,4 @@
-# Nexo workspace
+# Weege workspace
 
 Protótipo de um agente de atendimento para uma empresa fictícia de serviços de TI. O usuário descreve um problema em linguagem natural e recebe uma orientação do agente local.
 
